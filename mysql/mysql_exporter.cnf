@@ -1,0 +1,4 @@
+[client]
+password=emartdbpass
+host=emartdb
+port=3306
